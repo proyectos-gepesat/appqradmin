@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">GEPESAT ADMIN</string>
+    <string-array name="tipo_servicio">
+        <item>Escoger tipo servicio</item>
+        <item>Creación</item>
+        <item>Despacho</item>
+        <item>Devolución</item>
+        <item>Fin de servicio</item>
+        <item>Inicio de servicio</item>
+    </string-array>
+    <string-array name="tipo_zona">
+        <item>ETAPA01</item>
+        <item>ETAPA02</item>
+        <item>ETAPA03</item>
+        <item>ETAPA04</item>
+        <item>ETAPA05</item>
+        <item>GARITA01</item>
+        <item>GARITA02</item>
+        <item>GARITA03</item>
+    </string-array>
+    <string-array name="tipo_sector">
+        <item>CAMPO01</item>
+        <item>CAMPO02</item>
+        <item>CAMPO03</item>
+        <item>CAMPO04</item>
+        <item>CAMPO05</item>
+        <item>CAMPO06</item>
+        <item>CAMPO07</item>
+    </string-array>
+    <string-array name="tipo_ubicacion">
+        <item>PARADERO 101</item>
+        <item>PARADERO 102</item>
+        <item>PARADERO 103</item>
+        <item>PARADERO 104</item>
+        <item>PARADERO 105</item>
+        <item>PARADERO 106</item>
+        <item>PARADERO 107</item>
+        <item>PARADERO 108</item>
+        <item>PARADERO 109</item>
+        <item>PARADERO 110</item>
+        <item>PARADERO 111</item>
+        <item>PARADERO 201</item>
+        <item>PARADERO 202</item>
+        <item>PARADERO 203</item>
+        <item>PARADERO 204</item>
+        <item>PARADERO 205</item>
+        <item>PARADERO 206</item>
+        <item>PARADERO 207</item>
+        <item>PARADERO 208</item>
+        <item>PARADERO 209</item>
+        <item>PARADERO 210</item>
+        <item>PARADERO 211</item>
+        <item>PARADERO 212</item>
+        <item>PARADERO 213</item>
+        <item>PARADERO 214</item>
+        <item>PARADERO 215</item>
+        <item>PARADERO 216</item>
+        <item>PARADERO 217</item>
+        <item>PARADERO 301</item>
+        <item>PARADERO 302</item>
+        <item>PARADERO 303</item>
+        <item>PARADERO 304</item>
+        <item>PARADERO 305</item>
+        <item>PARADERO 306</item>
+        <item>PARADERO 307</item>
+        <item>PARADERO 308</item>
+        <item>PARADERO 309</item>
+        <item>PARADERO 310</item>
+        <item>PARADERO 311</item>
+        <item>PARADERO 312</item>
+        <item>PARADERO 401</item>
+        <item>PARADERO 402</item>
+        <item>PARADERO 403</item>
+        <item>PARADERO 404</item>
+        <item>PARADERO 405</item>
+        <item>PARADERO 406</item>
+        <item>PARADERO 501</item>
+        <item>PARADERO 502</item>
+        <item>PARADERO 503</item>
+        <item>PARADERO 504</item>
+        <item>PARADERO 505</item>
+        <item>PARADERO 506</item>
+    </string-array>
+    <string-array name="tipo_color">
+        <item>VERDE</item>
+        <item>NARANJA</item>
+        <item>AZUL</item>
+        <item>ROJO</item>
+        <item>AMARILLO</item>
+        <item>MARRON</item>
+        <item>ROSADO</item>
+        <item>NEGRO</item>
+        <item>PLOMO</item>
+        <item>BLANCO</item>
+        <item>OTROS</item>
+    </string-array>
+    <string-array name="tipo_marca">
+        <item>FIVE PICS</item>
+        <item>POLYPORTABLES</item>
+        <item>NACIONAL</item>
+    </string-array>
+    <string-array name="tipo_tipo">
+        <item>STANDARD</item>
+        <item>EJECUTIVO</item>
+    </string-array>
+</resources>
